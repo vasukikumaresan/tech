@@ -7,6 +7,9 @@ public class Employee {
 		System.out.println("Employee name is:divya");
 
 	}
+	public void testpass() {
+		System.out.println("done....");
+	}
 	public static void main(String[] args) {
 		
 	}
